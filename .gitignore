@@ -15,7 +15,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Runtime data
+# Runtime Data
 pids
 *.pid
 *.seed
@@ -24,24 +24,31 @@ pids
 # Coverage
 coverage/
 
-# Build folders
+# Build Folders
 dist/
 build/
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-
-# Temporary files
+# Temporary Files
 tmp/
 temp/
 
-# Uploads (if you store files locally)
-uploads/
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
 
 # Cache
 .cache/
+.parcel-cache/
+
+# Uploads (if any)
+uploads/
+
+# Testing
+.nyc_output/
+
+# Optional
+*.tgz
