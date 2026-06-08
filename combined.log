@@ -1,0 +1,466 @@
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 146.368ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 95.938ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 24.102ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=5 200 - 226266 - 8.288ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 9.688ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 56358 - 33.174ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 263432 - 22.972ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 8.851ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=5 200 - 283817 - 7.467ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 68.519ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5&startDate=2026-06-07 200 - 101371 - 31.841ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5&startDate=2026-06-06 200 - 101371 - 5.929ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5&startDate=2026-06-06&endDate=2026-06-07 200 - 80 - 5.008ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 101371 - 5.921ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 61.173ms"}
+{"level":"info","message":"User 6a2477f9cf94fe51bb4f4d04 punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 45024 - 13.450ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 45048 - 7.459ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 6.620ms"}
+{"level":"warn","message":"Login attempt with wrong password: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 66.410ms"}
+{"level":"warn","message":"Login attempt with wrong password: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 61.629ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 61.336ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5&startDate=2026-06-06 304 - undefined - 6.461ms"}
+{"level":"warn","message":"Login attempt with wrong password: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 106.903ms"}
+{"level":"warn","message":"Login attempt with wrong password: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 67.932ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 74.121ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 79.396ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 63.418ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 61.399ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 101371 - 38.554ms"}
+{"level":"info","message":"User 6a2530e2f052ce61a8130cff punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 46225 - 45.654ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 147541 - 18.144ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 122.220ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 131.392ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 49.816ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 347.054ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 123.421ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 263432 - 60.347ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=5 304 - undefined - 16.141ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5&startDate=2026-06-07 200 - 263431 - 18.517ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5&startDate=2026-06-07&endDate=2026-06-07 200 - 80 - 5.238ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 197.116ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 111.186ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 45048 - 102.101ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 11.531ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 68.115ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 200 - 45048 - 13.210ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=5 304 - undefined - 237.557ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 131.761ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 547440 - 87.222ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 17.343ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 547440 - 11.858ms"}
+{"level":"info","message":"Overtime requested by 6a246d470b08b6f42c050211 for record 6a25212a0991ded26c20bbc8"}
+{"level":"info","message":"POST /api/attendance/overtime 200 - 57642 - 36.636ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 547482 - 13.120ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 547482 - 11.304ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-07 200 - 371950 - 27.411ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-07&endDate=2026-06-08 200 - 371950 - 8.395ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-07&endDate=2026-06-07 200 - 81 - 4.316ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-05 200 - 547482 - 12.734ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-05&endDate=2026-06-06 200 - 81 - 4.891ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 63.398ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 245565 - 25.995ms"}
+{"level":"info","message":"Attendance 6a257806a9437b7c7dd0de57 marked valid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a257806a9437b7c7dd0de57/verify 200 - 46368 - 15.759ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 252602 - 8.556ms"}
+{"level":"info","message":"Attendance 6a2575207e1245913c588145 marked valid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a2575207e1245913c588145/verify 200 - 45162 - 6.132ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 259853 - 11.605ms"}
+{"level":"info","message":"Attendance 6a25748d7e1245913c588144 marked valid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a25748d7e1245913c588144/verify 200 - 56523 - 7.817ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 256923 - 18.349ms"}
+{"level":"info","message":"Attendance 6a256772e5929f6e8f302f33 marked invalid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a256772e5929f6e8f302f33/verify 200 - 48524 - 8.459ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 260682 - 9.716ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=2&limit=5 200 - 284474 - 8.864ms"}
+{"level":"info","message":"Attendance 6a25212a0991ded26c20bbc8 marked invalid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a25212a0991ded26c20bbc8/verify 200 - 57814 - 8.286ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=2&limit=5 200 - 226758 - 10.469ms"}
+{"level":"info","message":"Attendance 6a25209d0991ded26c20bbc7 marked invalid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a25209d0991ded26c20bbc7/verify 200 - 50959 - 6.742ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=2&limit=5 200 - 175898 - 8.382ms"}
+{"level":"info","message":"Attendance 6a24716fa49aa02a46a1ef2c marked valid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a24716fa49aa02a46a1ef2c/verify 200 - 57984 - 6.796ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=2&limit=5 200 - 117989 - 7.764ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 78.070ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=1&limit=10 200 - 515209 - 17.079ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=2&limit=10 200 - 226992 - 6.794ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=1&limit=10&startDate=2026-06-06 200 - 515209 - 13.541ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-06 200 - 81 - 4.628ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-07 200 - 176021 - 5.812ms"}
+{"level":"info","message":"Daily report generated: 14 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 200 - 739132 - 31.172ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 57886 - 10.318ms"}
+{"level":"info","message":"Overtime approved by 6a2530e2f052ce61a8130cff for record 6a25212a0991ded26c20bbc8"}
+{"level":"info","message":"POST /api/attendance/6a25212a0991ded26c20bbc8/overtime 200 - 57735 - 6.379ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 80 - 5.292ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 767 - 9.369ms"}
+{"level":"info","message":"Admin created user: navdeep@gmail.com with role employee"}
+{"level":"info","message":"POST /api/users 201 - 155 - 74.889ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 986 - 4.327ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 updated by admin 6a2530e2f052ce61a8130cff"}
+{"level":"info","message":"PUT /api/users/6a246d470b08b6f42c050211 200 - 210 - 8.363ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 1024 - 4.027ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 updated by admin 6a2530e2f052ce61a8130cff"}
+{"level":"info","message":"PUT /api/users/6a246d470b08b6f42c050211 200 - 211 - 5.491ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 1025 - 4.361ms"}
+{"level":"info","message":"User 6a2588b2afa3e4c84f908c80 updated by admin 6a2530e2f052ce61a8130cff"}
+{"level":"info","message":"PUT /api/users/6a2588b2afa3e4c84f908c80 200 - 245 - 3.324ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 1028 - 3.476ms"}
+{"level":"info","message":"User 6a2588b2afa3e4c84f908c80 updated by admin 6a2530e2f052ce61a8130cff"}
+{"level":"info","message":"PUT /api/users/6a2588b2afa3e4c84f908c80 200 - 242 - 5.539ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 1025 - 3.901ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 260681 - 9.849ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=2&limit=5 304 - undefined - 7.074ms"}
+{"level":"info","message":"Attendance 6a247429a49aa02a46a1ef2d marked invalid by 6a2530e2f052ce61a8130cff"}
+{"level":"info","message":"POST /api/attendance/6a247429a49aa02a46a1ef2d/verify 200 - 59929 - 8.162ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=2&limit=5 200 - 58136 - 8.092ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 8.855ms"}
+{"level":"info","message":"Daily report generated: 14 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 200 - 739120 - 19.560ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=1&limit=10 200 - 515210 - 19.030ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 71.855ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 123.945ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 547986 - 77.311ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 39.698ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 64.788ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 23.234ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 61.620ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10 200 - 548946 - 57.483ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 14.923ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 260681 - 37.610ms"}
+{"level":"info","message":"Daily report generated: 14 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 304 - undefined - 19.239ms"}
+{"level":"info","message":"Daily report generated: 14 records"}
+{"level":"info","message":"GET /api/attendance/report/daily?startDate=2026-06-06 200 - 739120 - 14.048ms"}
+{"level":"info","message":"Daily report generated: 3 records"}
+{"level":"info","message":"GET /api/attendance/report/daily?startDate=2026-06-06&endDate=2026-06-07 200 - 175329 - 6.958ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 64.815ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 304 - undefined - 11.721ms"}
+{"level":"info","message":"Admin created user: gaurav@gmail.com with role employee"}
+{"level":"info","message":"POST /api/users 201 - 153 - 81.133ms"}
+{"level":"info","message":"GET /api/users?page=1&limit=10 200 - 1242 - 5.864ms"}
+{"level":"warn","message":"Login attempt with wrong password: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 63.065ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 68.675ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 30.457ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 94.079ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 15.22h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 123837 - 135.090ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 615347 - 56.658ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 20.992ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 38.990ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 16.22h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 115518 - 15.364ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 682388 - 27.764ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 18.563ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 18.232ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 19.21h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 121877 - 9.629ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 751001 - 29.269ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 30.286ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 19.29h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 121697 - 11.799ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 820422 - 53.274ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 18.319ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 19.39h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 120208 - 34.779ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 887174 - 21.534ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 27.262ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 80.093ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 18.502ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 66706 - 21.984ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 895864 - 15.751ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 0.03h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 134159 - 15.735ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 963316 - 21.564ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 21.514ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 24.668ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 13.576ms"}
+{"level":"warn","message":"Login attempt with wrong password: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 69.968ms"}
+{"level":"info","message":"User logged in: admin@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 316 - 63.611ms"}
+{"level":"info","message":"GET /api/attendance/all-attendance?page=1&limit=10 200 - 930789 - 43.584ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 8.567ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 62.981ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 4.770ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 64.903ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1021277 - 21.609ms"}
+{"level":"info","message":"Overtime requested by 6a246d470b08b6f42c050211 for record 6a264e89f93f4252627c6ee6"}
+{"level":"info","message":"POST /api/attendance/overtime 200 - 134156 - 17.557ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1021307 - 15.064ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 963346 - 22.034ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 66.361ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 134308 - 23.293ms"}
+{"level":"info","message":"Overtime approved by 6a2477f9cf94fe51bb4f4d04 for record 6a264e89f93f4252627c6ee6"}
+{"level":"info","message":"POST /api/attendance/6a264e89f93f4252627c6ee6/overtime 200 - 134239 - 13.866ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 80 - 4.985ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 547595 - 11.321ms"}
+{"level":"info","message":"Attendance 6a264e89f93f4252627c6ee6 marked valid by 6a2477f9cf94fe51bb4f4d04"}
+{"level":"info","message":"POST /api/attendance/6a264e89f93f4252627c6ee6/verify 200 - 134352 - 21.164ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 465467 - 10.172ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 65.255ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1021423 - 16.284ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 963462 - 26.668ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06 200 - 963462 - 28.279ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=10&startDate=2026-06-06 200 - 58042 - 7.994ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-07 200 - 175748 - 7.894ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-06 200 - 81 - 4.738ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 207.535ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06 304 - undefined - 35.253ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-06 304 - undefined - 6.837ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-07 200 - 887174 - 13.019ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-08 200 - 963462 - 13.360ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=10&startDate=2026-06-06&endDate=2026-06-08 200 - 58042 - 6.376ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 70.077ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 304 - undefined - 23.059ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 8.573ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10 200 - 964422 - 27.401ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10 304 - undefined - 183.927ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10 304 - undefined - 50.517ms"}
+{"level":"error","message":"Daily report error: applyDateFilter is not defined"}
+{"level":"info","message":"GET /api/attendance/report/daily? 500 - 60 - 8.043ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 21.200ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 304 - undefined - 26.013ms"}
+{"level":"error","message":"Daily report error: applyDateFilter is not defined"}
+{"level":"info","message":"GET /api/attendance/report/daily? 500 - 60 - 34.007ms"}
+{"level":"error","message":"Daily report error: applyDateFilter is not defined"}
+{"level":"info","message":"GET /api/attendance/report/daily? 500 - 60 - 10.672ms"}
+{"level":"error","message":"Daily report error: applyDateFilter is not defined"}
+{"level":"info","message":"GET /api/attendance/report/daily? 500 - 60 - 36.709ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"Daily report generated: 15 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 200 - 1212030 - 135.102ms"}
+{"level":"info","message":"Daily report generated: 15 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 304 - undefined - 197.501ms"}
+{"level":"info","message":"Daily report generated: 15 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 304 - undefined - 115.257ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 32.407ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 70.993ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 32.041ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 80230 - 41.036ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 985756 - 17.986ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 0.02h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 139484 - 63.754ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1045009 - 33.945ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 56.897ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 12.858ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1160851 - 22.956ms"}
+{"level":"info","message":"Overtime requested by 6a246d470b08b6f42c050211 for record 6a265fb8ea8a1d14be1df5a1"}
+{"level":"info","message":"POST /api/attendance/overtime 200 - 139488 - 7.863ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1160888 - 14.748ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1045046 - 15.095ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 62.528ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 60.943ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 139640 - 16.550ms"}
+{"level":"info","message":"Overtime approved by 6a2477f9cf94fe51bb4f4d04 for record 6a265fb8ea8a1d14be1df5a1"}
+{"level":"info","message":"POST /api/attendance/6a265fb8ea8a1d14be1df5a1/overtime 200 - 139571 - 7.734ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 80 - 3.522ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 552927 - 10.593ms"}
+{"level":"info","message":"Daily report generated: 16 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 200 - 1351349 - 22.953ms"}
+{"level":"info","message":"Daily report generated: 16 records"}
+{"level":"info","message":"GET /api/attendance/report/daily?startDate=2026-06-06 200 - 1351349 - 83.695ms"}
+{"level":"info","message":"Daily report generated: 0 records"}
+{"level":"info","message":"GET /api/attendance/report/daily?startDate=2026-06-06&endDate=2026-06-06 200 - 36 - 4.017ms"}
+{"level":"info","message":"Daily report generated: 14 records"}
+{"level":"info","message":"GET /api/attendance/report/daily?startDate=2026-06-06&endDate=2026-06-07 200 - 1078006 - 28.454ms"}
+{"level":"info","message":"Daily report generated: 16 records"}
+{"level":"info","message":"GET /api/attendance/report/daily?startDate=2026-06-06&endDate=2026-06-08 200 - 1351349 - 16.454ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10 200 - 1046089 - 54.863ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10&startDate=2026-06-02 200 - 1046089 - 28.045ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10&startDate=2026-06-02&endDate=2026-06-06 200 - 81 - 8.514ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=2&limit=10 200 - 116115 - 8.826ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 6.257ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 304 - undefined - 13.724ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 67.039ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1045129 - 18.593ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1160971 - 27.497ms"}
+{"level":"info","message":"Overtime requested by 6a246d470b08b6f42c050211 for record 6a25748d7e1245913c588144"}
+{"level":"info","message":"POST /api/attendance/overtime 200 - 123833 - 19.219ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1161000 - 24.645ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1045158 - 12.741ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 38.085ms"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 109.945ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 65.620ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06 200 - 1045158 - 34.186ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-07 200 - 887203 - 26.162ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-08 200 - 1045158 - 14.195ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=10&startDate=2026-06-06&endDate=2026-06-08 200 - 115923 - 6.021ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 214.588ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 29.569ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 304 - undefined - 36.396ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=10 200 - 115923 - 19.603ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 145.753ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 26.734ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 198.682ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 304 - undefined - 107.353ms"}
+{"level":"info","message":"Overtime requested by 6a246d470b08b6f42c050211 for record 6a256772e5929f6e8f302f33"}
+{"level":"info","message":"POST /api/attendance/overtime 200 - 115520 - 87.675ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1161035 - 36.482ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 68.410ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 239578 - 36.828ms"}
+{"level":"info","message":"Overtime approved by 6a2477f9cf94fe51bb4f4d04 for record 6a256772e5929f6e8f302f33"}
+{"level":"info","message":"POST /api/attendance/6a256772e5929f6e8f302f33/overtime 200 - 115521 - 11.769ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 123985 - 13.723ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 63.400ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1161036 - 18.879ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1045194 - 18.422ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=10 304 - undefined - 6.741ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06 200 - 1045194 - 24.290ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10&startDate=2026-06-06&endDate=2026-06-07 200 - 887239 - 14.604ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 20.346ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 65.864ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 257.363ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 388.957ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=2&limit=10 304 - undefined - 145.314ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 192.598ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 64718 - 93.856ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1050031 - 37.344ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 30.020ms"}
+{"level":"warn","message":"Login attempt with wrong password: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 401 - 50 - 108.268ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 92.075ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 78.857ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched out - 0.20h"}
+{"level":"info","message":"POST /api/attendance/punch-out 200 - 124231 - 96.185ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1109543 - 31.409ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 39.465ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 28.990ms"}
+{"level":"info","message":"User logged in: manager@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 317 - 66.186ms"}
+{"level":"info","message":"GET /api/attendance/team-attendance?page=1&limit=10 200 - 1110503 - 65.559ms"}
+{"level":"info","message":"Daily report generated: 17 records"}
+{"level":"info","message":"GET /api/attendance/report/daily? 200 - 1475435 - 49.439ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 304 - undefined - 15.018ms"}
+{"level":"info","message":"Overtime approved by 6a2477f9cf94fe51bb4f4d04 for record 6a25748d7e1245913c588144"}
+{"level":"info","message":"POST /api/attendance/6a25748d7e1245913c588144/overtime 200 - 123834 - 13.765ms"}
+{"level":"info","message":"GET /api/attendance/pending-overtime?page=1&limit=5 200 - 80 - 8.482ms"}
+{"level":"info","message":"GET /api/attendance/unverified?page=1&limit=5 200 - 556950 - 12.661ms"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.attendencemernproject.kekt0i7.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.1swt4ki.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.1swt4ki.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster0.1swt4ki.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster01.7sl4uls.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster01.7sl4uls.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster01.7sl4uls.mongodb.net"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server listening on 5000"}
+{"level":"info","message":"User signed up: harsh@gmail.com with role employee"}
+{"level":"info","message":"POST /api/auth/signup 201 - 304 - 124.710ms"}
+{"level":"info","message":"User logged in: harsh@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 320 - 70.023ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 81 - 44.744ms"}
+{"level":"info","message":"User logged in: harsh@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 320 - 73.792ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 65.889ms"}
+{"level":"info","message":"User 6a246d470b08b6f42c050211 punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 46346 - 26.963ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 1104979 - 56.693ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 16.072ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=20 200 - 1331503 - 37.340ms"}
+{"level":"info","message":"User logged in: harsh@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 320 - 72.512ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 81 - 24.193ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 10.411ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 9.260ms"}
+{"level":"info","message":"User 6a26ede25d75b1eed1593fda punched in"}
+{"level":"info","message":"POST /api/attendance/punch-in 201 - 48041 - 8.805ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 200 - 48066 - 6.385ms"}
+{"level":"info","message":"GET /api/attendance/my-attendance?page=1&limit=10 304 - undefined - 11.335ms"}
+{"level":"warn","message":"Signup attempt with existing email: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/signup 400 - 55 - 49.847ms"}
+{"level":"info","message":"User logged in: mayanksinghsolanki110@gmail.com"}
+{"level":"info","message":"POST /api/auth/login 200 - 345 - 80.084ms"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster001.tf52pxl.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster001.tf52pxl.mongodb.net"}
+{"level":"error","message":"MongoDB connection failed: querySrv ECONNREFUSED _mongodb._tcp.cluster001.tf52pxl.mongodb.net"}
